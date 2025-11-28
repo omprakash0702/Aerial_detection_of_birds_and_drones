@@ -1,0 +1,6 @@
+streamlit
+tensorflow
+ultralytics
+torch
+pillow
+numpy
