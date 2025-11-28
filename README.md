@@ -1,5 +1,3 @@
----
-
 # **📌 Bird vs Drone Classification & Object Detection**
 
 **Deep Learning | Transfer Learning | YOLOv8 | Streamlit**
@@ -7,7 +5,7 @@
 This project builds a complete AI pipeline to **classify aerial objects as Bird or Drone**, and optionally **detect** them in real-world images using YOLOv8.
 The system supports **image classification, object detection, and a deployable Streamlit UI**.
 
----
+
 
 ## ⭐ **🚀 Project Features**
 
@@ -44,7 +42,7 @@ The system supports **image classification, object detection, and a deployable S
 
 ## ⭐ **📂 Project Structure**
 
-```
+
 Bird_Vs_Drone/
 │
 ├── notebooks/
@@ -79,9 +77,8 @@ Bird_Vs_Drone/
 │   ├── test/bird, drone
 │
 └── README.md
-```
 
----
+
 
 ## ⭐ **📊 Model Performance Summary**
 
@@ -101,7 +98,6 @@ Bird_Vs_Drone/
 
 > ⭐ **MobileNetV2 selected as best model for deployment** (fastest + lightest).
 
----
 
 ## ⭐ **🧠 YOLOv8 Detection Results**
 
@@ -117,7 +113,6 @@ Bird detected at (x,y) with 0.91 confidence
 Drone detected at (x,y) with 0.87 confidence
 ```
 
----
 
 ## ⭐ **🖥 Streamlit App Usage**
 
