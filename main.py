@@ -211,6 +211,7 @@ def home():
 # Disable GPU
 os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
 os.environ["ULTRALYTICS_CONFIG_DIR"] = "/tmp"
+os.environ["OMP_NUM_THREADS"] = "1"
 
 # Load models
 clf_model = tf.keras.models.load_model("models/bird_drone_mobilenet_final.keras")
