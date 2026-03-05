@@ -291,15 +291,3 @@ If you'd like to improve the system:
 
 **Omprakash**
 
-If you found this project useful, feel free to connect or share feedback.
-
----
-
-If you want, I can also generate:
-
-✅ **A professional GitHub project banner**
-✅ **Screenshots section for README**
-✅ **Short demo video script**
-✅ **Better GitHub repo structure (industry-style)**
-
-Those make the project **much stronger for ML/AI resumes.**
